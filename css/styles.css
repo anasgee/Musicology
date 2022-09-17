@@ -1,10 +1,7 @@
 * {
   box-sizing: border-box;
 }
-/* .nav {
-  background-color: #303030;
-  height: 70px;
-} */
+
 #navbarSupportedContent ul li a:hover {
   color: #e8631c;
   transition:0.4s;
@@ -16,35 +13,6 @@
   color: #e8631c;
   font-weight: bolder;
 }
-
-
-
-/* .nav ul {
-  list-style-type: none;
-  display: flex;
-  padding-top: 15px;
-  position: relative;
-  left: -50px;
-} */
-/* ul a {
-  text-decoration: none;
-  color: white;
-  margin-right: 20px;
-} */
-
-/* .logo img {
-  padding: 15px 0px 0 30px;
-  width: 100%;
-  height: 60px;
-} */
-/* .search img {
-  width: 20px;
-  height: 45px;
-  position: relative;
-  right: 30px;
-  padding-top: 25px;
-} */
-/* HERO SECTION */
 
 #hero {
   background: url(/img/hero.png);
@@ -105,8 +73,7 @@
   font-family: "oswald";
 }
 .dance-card p {
-  /* padding-left:2px; */
-  /* padding-right:px; */
+
   font-size: 11px;
 }
 
@@ -114,11 +81,11 @@
 
 #pricing-text {
   width: 50%;
-  /* letter-spacing: 2px; */
+
   margin: auto;
   color: white;
   padding: 25px 0;
-  /* font-family:'oswald'; */
+
 }
 #dance-tour-text p {
   font-family: "nunito";
@@ -148,7 +115,7 @@
 }
 .pricing-card h1 {
   font-size: 2rem;
-  /* font-weight: bolder; */
+
   padding-top: 10px;
   font-family: "oswald", sans-serif;
   font-weight: bolder;
@@ -161,6 +128,7 @@
   margin: 15px;
 }
 /* Price End */
+
 /* Statistics Start */
 
 #statistics-text {
@@ -185,12 +153,12 @@
 }
 .statistics-card {
   color: white;
-  /* background-color: #e8631c; */
+
   text-align: center;
 }
 .statistics-card h1 {
   font-size: 2rem;
-  /* font-weight: bolder; */
+
   padding-top: 10px;
   font-family: "oswald", sans-serif;
 }
@@ -211,7 +179,7 @@
 #card-1 {
   margin-top: 40px;
   background-color: #e8631c;
-  /* margin-right: 30px; */
+
   color: white;
   border: none;
 }
@@ -235,8 +203,7 @@
     rgba(255, 0, 0, 0.279),
     rgba(0, 0, 0, 0.315)
   );
-  /* background-color: #e8631c3d; */
-  /* background-color: #30303027; */
+
   margin-top: -20px;
   height: 300px;
 }
@@ -276,7 +243,7 @@ input {
 }
 button {
   padding: 5px;
-  /* border: none; */
+
   color: white;
   text-align: center;
   border-color: #303030;
@@ -342,7 +309,7 @@ footer h5 {
     padding-top: 160px;
   }
   #hero {
-    /* padding-bottom: 160px; */
+
     margin-top: -5px;
     margin-bottom: -70px;
   }
@@ -380,7 +347,7 @@ footer h5 {
     font-size: 13px;
   }
   #hero {
-    /* padding-bottom: 160px; */
+
     margin-top: -5px;
     margin-bottom: -70px;
   }
@@ -431,7 +398,7 @@ footer h5 {
     font-size: 12px;
   }
   #hero {
-    /* padding-bottom: 160px; */
+
     margin-top: -5px;
     background-size: contain;
     margin-bottom: -70px;
@@ -452,7 +419,7 @@ footer h5 {
     text-align: center;
     width: 160px;
     margin: -30px auto 0px;
-    /* height: 100px; */
+
   }
   .dance-card h1 {
     font-size: 26px;
@@ -469,9 +436,7 @@ footer h5 {
     margin-top: 20px;
   }
 
-  /* #dance-tour-img h1{
-        padding-top: 30px;
-    } */
+
   .pricing {
     width: 160px !important;
     font-weight: lighter;
@@ -515,23 +480,7 @@ footer h5 {
   }
 }
 @media screen and (min-width: 428px) and (max-width: 618px) {
-    /* .logo img {
-        padding: 18px 0px 0 16px;
-        width: 100%;
-        height: 48px;
-        
-    }      
-    .nav {
-    margin-bottom: -14px !important;
-    margin-top: -10px;
-  }
-  
-  .navbar ul li {
-    font-size: 10px;
-  }
-  .navbar ul{
-    left: -30px;
-  } */
+   
   #hero{
     margin-bottom:-395px;
 
@@ -564,16 +513,10 @@ footer h5 {
     text-align: center;
     padding-bottom: -10px;
 }
-/* .search img {
-    width: 15px;
-    height: 40px;
 
-    right: 20px;
-    padding-top: 30px;
-  } */
 #dance-tour{
   font-size: 10px;
-  /* display: flex; */
+
 
 }
 #dance-tour-img{
@@ -583,7 +526,7 @@ footer h5 {
 }
 #dance-tour-img .dance img{
   width: 100px; 
-  /* height: 100px; */
+
 
 }
 #dance-tour-img .dance-card{
@@ -627,7 +570,7 @@ footer h5 {
 #amazing-dance img {
   width: 100px;
   height: 100px;
-  /* margin-bottom: -20px; */
+
 }
 .card h5 {
   font-size: 13px;
@@ -728,7 +671,7 @@ footer a{
   }
   #dance-tour-text {
     width: 100%;
-    /* letter-spacing: 2px; */
+
     margin: auto;
     color: white;
    margin: 0px auto -42px;
@@ -744,7 +687,7 @@ footer a{
   }
   #dance-tour-img .dance img{
     width: 70%; 
-    /* height: 50px; */
+
   
   }
   #dance-tour-img .dance-card{
@@ -809,7 +752,7 @@ footer a{
     #amazing-dance img {
       width: 100px;
       height: 100px;
-      /* margin-bottom: -20px; */
+    
     }
     .card h5 {
       font-size: 10px;
