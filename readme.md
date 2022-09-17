@@ -1,1 +1,4 @@
-This is the Dance academy website where you can register yourself and reserve your seats in your respected country. You can also check real-time prices and active members and community members.
+# Musicology
+
+This is the Dance Academy website where you can register yourself and reserve your seats in your respected country. 
+You can also check real-time prices and active members and community members.
